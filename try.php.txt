@@ -1,0 +1,11 @@
+<?php
+$myOwnInfo = [
+	'name' => 'Lord Xander Dacillo',
+	'title' => 'My portfolio',
+	'phone' => '09123456789,
+	'linkedin' => 'linkedin.com/in/lordxanderdacillo'
+];
+
+$summary = 'A dedicated FEU TEech student'
+
+?>
